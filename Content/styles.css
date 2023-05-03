@@ -519,10 +519,6 @@ font-size: 175%;
     filter: grayscale(100%);*/
   }
 
-}
-
-
-
 @media only screen and (min-width: 1200px ) {
   .home_main {
     margin: 2% auto 20%;

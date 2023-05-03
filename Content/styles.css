@@ -397,7 +397,7 @@ footer {
   .about_video {
     clear: both;
   }  
-  table {    /*Added in 4/11/23*/
+  table {    
     margin: 0 auto;
     max-width: 1000px;
   }
@@ -435,7 +435,7 @@ font-size: 175%;
   }
 
   .goal p {
-    margin-right: 10%; /*Put this in 3/26 fixed the text problem was set at 50%*/
+    margin-right: 10%; 
   margin-left: 10%;
   }
 
@@ -453,23 +453,7 @@ font-size: 175%;
   }
 
 
-  .edu_details {
-    clear: both;
-    list-style-position: inside;
-    margin: 2rem auto;
-    line-height: 1.5rem;
-  }
-
-  .edu_details h2 {
-    margin: 2rem auto;
-  }
-
-  .line-2 {
-    margin: 0 5%;
-  }
-
-
-  /******Back to Top of Page Button 800px screen size 3/28 Start*******/
+    /******Back to Top of Page Button 800px screen size *******/
   #myBtn {
     display: none; 
     position: fixed; 
@@ -492,11 +476,7 @@ font-size: 175%;
 
   /* *Back to TOp of Page Button End** */
 
-  .PRh4{
-    margin-left: 0;
-  }
- 
-
+  
   h4 {
     font-size: 110%;
   }
@@ -505,14 +485,7 @@ font-size: 175%;
     font-size: 160%;
     }
 
-  .greetings {
-    font-size: 175%;
-  }
-  
-  .top-bar p, h3 {
-    display: block;
-  }
-   
+    
   .container {
     position: relative;
     width: 75%;
@@ -530,23 +503,7 @@ font-size: 175%;
 @media only screen and (min-width: 1000px) {
 /**********HOMEPAGE***********/
 
-  .top-bar {
-    width: 100%;
-    height: auto;
-    background-image: url('background_texture1.png');
-    background-repeat: repeat;
-    color: white;
-    text-align: center;
-    padding: 2rem 3rem;
-    font-size: 17px;
-    line-height: 1.5rem;
-    top: 0;
-  }
-
-  .top-bar h2{
-    margin-bottom:2px;
-  }
-
+ 
   .button {
     margin-left: 10%;
   }
@@ -555,8 +512,6 @@ font-size: 175%;
     font-size: 130%;
   }
 
-  .PRh4{
-    margin-left: 0%;
     
   }
   .about_img:hover {
@@ -688,8 +643,8 @@ font-size: 175%;
 /* ****3/28**** Resources Page***** */
 
 .resources_main{
-  margin-left: 2;
-  margin-right: 2;
+  margin-left: 2cm;
+  margin-right: 2cm;
 }
 
 .resources_main h1{

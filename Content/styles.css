@@ -215,7 +215,7 @@ footer {
    }
    
    figcaption,
-    .visible-hidden (
+    .visible-hidden {
      clip-path: inset(1px 1px 1px 1px);
        height: 1px;
        overflow: hidden;

@@ -264,7 +264,7 @@ footer {
     margin-right: 0%;
   }
 
-  table {    /*Added in 4/11/23*/
+  table {    
     margin: 0 auto;
   }
   
@@ -276,7 +276,7 @@ footer {
 
 
 
- /***3/26 for image start**/
+ 
   .image {
     width: 500px;
     margin-top: 5%;
@@ -291,7 +291,7 @@ footer {
   .text{
     margin-bottom: 5%;
   }
-  /***3/26 for image End***/
+  
 
 
 
@@ -329,7 +329,7 @@ footer {
   .line-2 {
     margin-left: 10%;
   }
-/***3/27 Contact form ****/
+/***5/2/ Contact form ****/
   .contact_container {
     margin-left: 10%;
     margin-right: 10%;

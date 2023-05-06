@@ -140,6 +140,7 @@ footer {
     height: auto;
     background-image: url('ISLT_7355/background-texture.png'):
     background-color: #f9e795;
+    background:repeat;
     color: black;
     text-align: center;
     padding: 2rem 3rem;

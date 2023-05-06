@@ -138,6 +138,7 @@ figure{
 footer {
     width: 100%;
     height: auto;
+    background-image: url('ISLT_7355/background-texture.png'):
     background-color: #f9e795;
     color: black;
     text-align: center;

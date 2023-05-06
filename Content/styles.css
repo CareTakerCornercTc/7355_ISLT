@@ -2,7 +2,7 @@
 
 /************//*get rid of the default margins and padding for body
 
-Passed validation 4/30/2023*/ 
+Passed validation 5/5/2023*/ 
 
 
 * {
@@ -231,6 +231,10 @@ footer {
        overflow: auto;
        position: absolute;
        width: auto;
+       
+       iframe {
+          botder: none;
+       }
 
 /***************************MEDIA QUERIES  *************************/
        /************************** Tablets *******************/
